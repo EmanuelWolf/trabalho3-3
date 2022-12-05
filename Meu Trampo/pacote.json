@@ -1,0 +1,23 @@
+{
+  "nome" : " trabalho-individual-modulo-3 " ,
+  "versão" : " 1.0.0 " ,
+  "description" : " Trabalho Individual da Resilia " ,
+  "principal" : " index.js " ,
+  "scripts" : {
+    "teste" : " nodemon index.js "
+  },
+  "repositório" : {
+    "tipo" : " git " ,
+    "url" : " git+https://github.com/SouzaJu22/Trabalho-individual-3.git "
+  },
+  "autor" : " juliana " ,
+  "licença" : " ISC " ,
+  "erros" : {
+    "url" : " https://github.com/SouzaJu22/Trabalho-individual-3.git "
+  },
+  "homepage" : " https://github.com/SouzaJu22/Trabalho-individual-3.git " ,
+  "dependências" : {
+    "expresso" : " ^4.18.2 " ,
+    "uuidv4" : " ^6.2.13 "
+  }
+}
